@@ -1,6 +1,6 @@
 # A Modern School Library Platform — Full System Design
 
-*"Netflix + Google Workspace + a professional library system + an AI librarian assistant."*
+*A well thought out professional library system coded by Seb Usher, with some input by jammin.*
 
 ---
 
